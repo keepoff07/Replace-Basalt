@@ -12,7 +12,9 @@
 </details>
 
 ## 導入
-後で書く
+[Releases](https://github.com/keepoff07/Replace-Basalt/releases)から、```Replace-Basalt_(version).zip```をダウンロードしてresourcepacksフォルダにぶち込みます。  
+リソースパックの選択画面で右側に移動させて適用されます。
+
 ![Imgur](https://i.imgur.com/nmVT8cl.png)
 
 ## 動作確認
