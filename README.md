@@ -8,14 +8,14 @@
 バニラテクスチャの玄武岩もいるので一応閲覧注意で。
 <details>
 
-![Imgur](https://i.imgur.com/cy5cdkI.png)
+![Imgur](https://i.imgur.com/dqmfYtu.png)
 </details>
 
 ## 導入
 [Releases](https://github.com/keepoff07/Replace-Basalt/releases)から、```Replace-Basalt_(version).zip```をダウンロードしてresourcepacksフォルダにぶち込みます。  
 リソースパックの選択画面で右側に移動させて適用されます。
 
-![Imgur](https://i.imgur.com/nmVT8cl.png)
+![Imgur](https://i.imgur.com/cdoIdTo.png)
 
 ## 動作確認
 Minecraft JavaEdition ver1.19.4
