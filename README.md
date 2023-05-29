@@ -11,6 +11,14 @@
 ![Imgur](https://i.imgur.com/dqmfYtu.png)
 </details>
 
+#### おまけ
+スカルク、スカルクヴェインの置き換えテクスチャも追加しました。  
+スカルクセンサーなどはそのままです。
+<details>
+
+![Imgur](https://i.imgur.com/gq7IaDl.png)
+</details>
+
 ## 導入
 [Releases](https://github.com/keepoff07/Replace-Basalt/releases)から、```Replace-Basalt_(version).zip```をダウンロードしてresourcepacksフォルダにぶち込みます。  
 リソースパックの選択画面で右側に移動させて適用されます。
